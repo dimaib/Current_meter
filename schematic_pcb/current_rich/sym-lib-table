@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name current_rich-cache)(type Legacy)(uri ${KIPRJMOD}/current_rich-cache.lib)(options "")(descr ""))
+  (lib (name cur_rich)(type Legacy)(uri ${KIPRJMOD}/cur_rich.lib)(options "")(descr ""))
+)
